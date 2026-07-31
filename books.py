@@ -1,11 +1,13 @@
-#books.py - List Manipulation Fundamentals
+"""
+books.py - List Manipulation Fundamentals
 
-#This script demonstrates core Python list operations, including:
-#Indexing and slicing (positive and negative indices)
-#String formatting with .title()
-#Modifying elements, appending, inserting, and deleting (del, pop, remove)
-#Sorting operations: temporary (sorted()) vs. permanent (.sort()), and reversing (.reverse())
+This script demonstrates core Python list operations, including:
+Indexing and slicing (positive and negative indices)
+String formatting with .title()
+Modifying elements, appending, inserting, and deleting (del, pop, remove)
+Sorting operations: temporary (sorted()) vs. permanent (.sort()), and reversing (.reverse())
 
+"""
 
 #Using list function to show my favourite books.
 books = [ "Percy Jackson", "Harry Potter", "Hunger Games", "Divergent"]
