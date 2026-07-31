@@ -1,10 +1,13 @@
-#cars.py - Sorting Methods and List Utility Functions
+"""
+cars.py - Sorting Methods and List Utility Functions
 
-#This script demonstrates Python list sorting techniques:
-#In-place permanent sorting with .sort() (ascending & descending)
-#Out-of-place temporary sorting with the built-in sorted() function
-#Reversing list order with .reverse()
-#Finding list size using the len() function
+This script demonstrates Python list sorting techniques:
+In-place permanent sorting with .sort() (ascending & descending)
+Out-of-place temporary sorting with the built-in sorted() function
+Reversing list order with .reverse()
+Finding list size using the len() function
+
+"""
 
 cars = [ 'bmw', 'audi', 'toyota', 'subaru' ]
 
