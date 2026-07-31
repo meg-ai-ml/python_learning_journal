@@ -1,10 +1,13 @@
-#animals.py - Iterating Over Lists with For Loops
+"""
+animals.py - Iterating Over Lists with For Loops
 
-#This script demonstrates basic loop mechanics in Python:
-#Defining a list of strings
-#Using a `for` loop to iterate through list elements
-#String concatenation within a loop
-#Executing code outside the loop block after iteration completes
+This script demonstrates basic loop mechanics in Python:
+Defining a list of strings
+Using a `for` loop to iterate through list elements
+String concatenation within a loop
+Executing code outside the loop block after iteration completes
+
+"""
 
 # Using the list function, we store the name of three animals by declaring the animals variable.
 
