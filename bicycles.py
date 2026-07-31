@@ -1,4 +1,9 @@
-# Define a list of four bicycles
+# bicycles.py - List Indexing & Basic String Formatting
+
+#This script demonstrates working with Python lists:
+#Accessing list elements using positive and negative indices.
+#Applying string methods like .upper() on list items.
+#Combining list items with strings using f-strings and print arguments.
 
 bicycles = [ "atlas","ladybird","hero","rockrider"]
 print(bicycles)
