@@ -3,7 +3,7 @@ A collection of Python scripts written on my learning journey covering fundament
 
 Topics
 
-1) Strings and Variables
+Strings and Variables
 
 a) famous_quote.py
 
@@ -33,7 +33,7 @@ m) stripping_whitespace.py
 
 n) white_spaces.py
 
-2) Numbers and Math
+Numbers and Math
 
 a) constant.py
 
@@ -47,7 +47,7 @@ e) number_eight.py
 
 f) simpleadd.py
 
-3) Lists
+Lists
 
 a) animals.py
 
@@ -67,7 +67,7 @@ h) places_to_visit.py
 
 i) players.py
 
-4) Loops And Numerical Lists
+Loops And Numerical Lists
 
 a) counting_to_twenty.py
 
@@ -96,3 +96,7 @@ l) squares.py
 m) stats.py
 
 n) summing_one_million_numbers.py
+
+Conditional Statements 
+
+a) voting.py
