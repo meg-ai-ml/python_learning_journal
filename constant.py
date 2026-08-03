@@ -1,10 +1,7 @@
-"""
-constant.py - Constant Naming Conventions in Python
-
-This script demonstrates Python's convention for constant values:
-- Using ALL_CAPS variable naming to signal read-only/constant values
-- Illustrating the contrast between Python (convention-based) and JavaScript (keyword-enforced) constants
-""" 
+# In Python, there is no constant variable and instead if type it in capital letters.
 
 MAX_CONNECTIONS = 5000
+
+# Present the user with the constant value.
+
 print(MAX_CONNECTIONS)
