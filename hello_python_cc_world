@@ -1,0 +1,12 @@
+# Write a message.
+message = "Hello Python Crash Course World"
+
+# NameError because of a typo.
+print(mesage)
+
+# Write a message.
+message = "Hello Python Crash Course World"
+
+# Present the message to the user.
+print(message)
+
