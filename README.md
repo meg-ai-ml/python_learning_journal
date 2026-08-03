@@ -61,8 +61,6 @@ helloworlddd.py
 
 hundred.py
 
-madlibs'.py
-
 magic_number.py
 
 magicians.py
