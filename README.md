@@ -1,6 +1,8 @@
 # python_learning_journal
 A collection of Python scripts written on my learning journey covering fundamental concepts, exercises and practice programs.
 
+alien_colours
+
 alien_colours_failure.py
 
 alien_colours_success.py
