@@ -1,0 +1,133 @@
+guest_list = [ 'dad', 'mom','grandpaf','grandmaf','grandpam','grandmam' ]
+
+message = f"Hi, You're invited to my party {guest_list[0]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[1]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[2]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[3]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[4]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[5]. title()}"
+print(message)
+
+guest_list.remove('grandmaf')
+print(guest_list)
+
+guest_list.append('aunty')
+print(guest_list)
+
+message = f"Hi, You're invited to my party {guest_list[0]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[1]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[2]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[3]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[4]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[5]. title()}"
+print(message)
+
+print("I found a bigger dining table and thus im inviting more people")
+
+guest_list.insert( 0 , "uncle")
+guest_list.insert( 3 , "amaira")
+guest_list.append("anvitha")
+
+print(guest_list)
+
+message = f"Hi, You're invited to my party {guest_list[0]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[1]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[2]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[3]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[4]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[5]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[6]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[7]. title()}"
+print(message)
+
+message = f"Hi, You're invited to my party {guest_list[8]. title()}"
+print(message)
+
+print("Hi, I only have space for two people so this plan is cancelled")
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+popped_guest = guest_list.pop()
+print(guest_list)
+
+message = "Hi, Sorry I can't invite you to dinnner since the table isn't coming on time " + popped_guest
+print(message)
+
+message = f"Hi, You're still invited to my party {guest_list[0]. title()}"
+print(message)
+
+message = f"Hi, You're still invited to my party {guest_list[1]. title()}"
+print(message)
+
+print("The number of guests invited to dinner are", len(guest_list))
+
+
+
