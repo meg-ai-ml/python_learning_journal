@@ -1,6 +1,6 @@
-# Assign the colour of the alien.
+# Set the target alien color for the current round.
 alien_colour = "pink"
-# Check if the alien is pink and award 5 points.
+# Award points only if the player encounters a pink alien
 if alien_colour == "pink":
     print("The player has earned 5 points!")
 # The user is presented the statement because the alien is the assigned colour.
