@@ -1,7 +1,7 @@
 # Create a list of banned users.
 banned_users = [ "Andrew", "Toby", "Tom" ]
 
-# Select a particularuser. 
+# Select a particular user. 
 user = "mary jane"
 
 #Check if she is not a banned user and if so, allow them to post a response.
