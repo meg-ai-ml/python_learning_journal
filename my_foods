@@ -1,0 +1,23 @@
+my_foods = [ "pasta", "pizza", "pani puri" ]
+friends_foods = my_foods
+print("My favourite foods are\n", my_foods)
+print("My friend's favourite foods are\n", friends_foods)
+my_foods.append("masala puri")
+friends_foods.append("chole kulche")
+print("My favourite foods are\n", my_foods)
+print("My friend's favourite foods are\n", friends_foods)
+
+print("The first three items in the list are: ", my_foods[0:3])
+
+my_foods.append("spicy noodles")
+print(my_foods)
+
+print("The three items of the middle of the list are: ", my_foods[1:4])
+
+print("The last three items in the list are: ", my_foods[3:6])
+
+for food in my_foods:
+    print(food)
+    
+for foods in friends_foods:
+    print(foods)
